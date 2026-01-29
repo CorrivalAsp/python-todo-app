@@ -9,22 +9,23 @@ print("¡Hola, mundo!")
 print("Este es mi primer programa en Python")
 
 # 2. Variables - contenedores para guardar información
-nombre = "Programador"
-edad = 25
-es_estudiante = True
+nombre = "Jhon Murillo"
+edad = 31
+es_estudiante = False
 
 # 3. Mostrar las variables
 print("Mi nombre es:", nombre)
 print("Tengo", edad, "años")
 
 # 4. Una lista simple - para guardar varias tareas
-tareas = ["Aprender Python", "Crear mi proyecto", "Practicar diario"]
+tareas = ["Aprender Python", "Crear mi proyecto", "Practicar diario", 'crear mi portafolio', 'aprender FastAPI', 'fortalecer mis habilidades']
 
 # 5. Mostrar las tareas
 print("\nMis tareas:")
 print(tareas[0])  # Primera tarea (las listas empiezan en 0)
 print(tareas[1])  # Segunda tarea
 print(tareas[2])  # Tercera tarea
+print(tareas[4])
 
 # 6. Agregar una nueva tarea
 tareas.append("Dominar FastAPI")
