@@ -4,6 +4,28 @@
 print("=== LECCIÓN 2: FUNCIONES ===\n")
 
 # -----------------------------------------------
+# CONCEPTOS PREVIOS: Métodos que usaremos
+# -----------------------------------------------
+print("--- Conceptos Previos ---\n")
+
+# 1. in - Verificar si algo está en una lista
+print("1. 'in' - Buscar en listas:")
+frutas = ["manzana", "pera", "naranja"]
+print(f"   Lista: {frutas}")
+print(f"   '¿pera está?' {('pera' in frutas)}")
+print(f"   '¿uva está?' {('uva' in frutas)}\n")
+
+# 2. enumerate() - Numerar elementos de una lista
+print("2. enumerate() - Numerar elementos:")
+tareas = ["Estudiar", "Cocinar", "Leer"]
+print(f"   Lista: {tareas}")
+print("   Con enumerate(start=1):")
+for numero, tarea in enumerate(tareas, 1):
+    print(f"   {numero}. {tarea}")
+
+print("\n" + "="*50 + "\n")
+
+# -----------------------------------------------
 # PARTE 1: ¿Por qué usar funciones?
 # -----------------------------------------------
 

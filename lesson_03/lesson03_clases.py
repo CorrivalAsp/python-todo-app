@@ -4,6 +4,29 @@
 print("=== LECCIÓN 3: CLASES Y OBJETOS ===\n")
 
 # -----------------------------------------------
+# CONCEPTOS PREVIOS: Operadores que usaremos
+# -----------------------------------------------
+print("--- Conceptos Previos ---\n")
+
+# 1. += - Incremento (suma y asigna)
+print("1. += Operador de incremento:")
+edad = 25
+print(f"   Edad inicial: {edad}")
+edad += 1  # Equivale a: edad = edad + 1
+print(f"   Después de edad += 1: {edad}\n")
+
+# 2. not - Negación booleana
+print("2. 'not' - Negación:")
+activo = True
+print(f"   activo = {activo}")
+print(f"   not activo = {not activo}")
+inactivo = False
+print(f"   inactivo = {inactivo}")
+print(f"   not inactivo = {not inactivo}")
+
+print("\n" + "="*50 + "\n")
+
+# -----------------------------------------------
 # PARTE 1: ¿Qué es una clase?
 # -----------------------------------------------
 

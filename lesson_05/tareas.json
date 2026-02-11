@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar Python",
+    "descripcion": "Lección 5: Archivos y JSON",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Hacer ejercicios",
+    "descripcion": "Completar todos los ejercicios",
+    "completada": false
+  },
+  {
+    "id": 3,
+    "titulo": "Hacer commit",
+    "descripcion": "Guardar cambios en Git",
+    "completada": false
+  },
+  {
+    "id": 4,
+    "titulo": "Estudiar Python",
+    "descripcion": "Lección 5: Archivos y JSON",
+    "completada": false
+  },
+  {
+    "id": 5,
+    "titulo": "Hacer ejercicios",
+    "descripcion": "Completar todos los ejercicios",
+    "completada": false
+  },
+  {
+    "id": 6,
+    "titulo": "Hacer commit",
+    "descripcion": "Guardar cambios en Git",
+    "completada": false
+  }
+]

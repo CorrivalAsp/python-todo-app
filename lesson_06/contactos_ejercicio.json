@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laura Gómez",
+    "telefono": "3001112233",
+    "email": "laura@email.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Pedro Ruiz",
+    "telefono": "3104445566",
+    "email": "pedro@email.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Sofia Martín",
+    "telefono": "3207778899",
+    "email": "sofia@email.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Laura Gómez",
+    "telefono": "3001112233",
+    "email": "laura@email.com"
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro Ruiz",
+    "telefono": "3104445566",
+    "email": "pedro@email.com"
+  },
+  {
+    "id": 6,
+    "nombre": "Sofia Martín",
+    "telefono": "3207778899",
+    "email": "sofia@email.com"
+  }
+]

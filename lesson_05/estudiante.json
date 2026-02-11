@@ -1,0 +1,10 @@
+{
+  "nombre": "María",
+  "edad": 22,
+  "carrera": "Ingeniería",
+  "materias": [
+    "Python",
+    "Matemáticas",
+    "Física"
+  ]
+}

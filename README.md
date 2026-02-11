@@ -9,9 +9,9 @@ Aplicación de gestión de tareas desarrollada como proyecto de aprendizaje.
 
 ## 📚 Progreso del curso
 - [x] Lección 1: Configuración del entorno
-- [ ] Lección 2: Variables y tipos de datos
-- [ ] Lección 3: Funciones y control de flujo
-- [ ] Lección 4: Programación orientada a objetos
+- [x] Lección 2: Variables y tipos de datos
+- [x] Lección 3: Funciones y control de flujo
+- [x] Lección 4: Programación orientada a objetos
 - [ ] Lección 5-10: Por completar
 
 ## 🛠️ Instalación

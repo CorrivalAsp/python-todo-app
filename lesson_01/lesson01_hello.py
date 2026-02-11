@@ -1,6 +1,48 @@
 # Lección 1 - Mi primer programa en Python
 # Fecha: 27 de enero 2026
 
+print("=== LECCIÓN 1: FUNDAMENTOS DE PYTHON ===\n")
+
+# -----------------------------------------------
+# CONCEPTOS PREVIOS: Lo que aprenderás
+# -----------------------------------------------
+print("--- Conceptos Previos ---\n")
+
+# 1. len() - Cuenta elementos en una lista
+print("1. len() - Longitud de listas:")
+numeros = [10, 20, 30]
+print(f"   Lista: {numeros}")
+print(f"   Longitud: {len(numeros)} elementos\n")
+
+# 2. .append() - Agrega elementos al final de una lista
+print("2. .append() - Agregar a listas:")
+frutas = ["manzana", "pera"]
+print(f"   Lista inicial: {frutas}")
+frutas.append("naranja")
+print(f"   Después de append: {frutas}\n")
+
+# 3. Índices [0], [1], [2] - Acceder a elementos
+print("3. Índices - Acceder a elementos:")
+colores = ["rojo", "verde", "azul"]
+print(f"   Lista: {colores}")
+print(f"   [0] = {colores[0]} (primer elemento)")
+print(f"   [1] = {colores[1]} (segundo elemento)")
+print(f"   [2] = {colores[2]} (tercer elemento)\n")
+
+# 4. for ... in - Recorrer listas
+print("4. for...in - Recorrer listas:")
+animales = ["perro", "gato", "pájaro"]
+print(f"   Lista: {animales}")
+print("   Recorriendo:")
+for animal in animales:
+    print(f"   - {animal}")
+
+print("\n" + "="*50 + "\n")
+
+# -----------------------------------------------
+# INICIANDO EJERCICIOS
+# -----------------------------------------------
+
 # Esto es un comentario - Python ignora estas líneas
 # Los comentarios explican qué hace el código
 

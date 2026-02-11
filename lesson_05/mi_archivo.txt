@@ -1,0 +1,4 @@
+Hola, este es mi primer archivo
+Segunda línea de texto
+Tercera línea
+Cuarta línea agregada
